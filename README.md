@@ -1,2 +1,2 @@
 # image-combime
-Combine 2 images using Magenta's image models using TensorFlow.js for GPU-accelerated inference.
+Combine 2 images using Magenta's image models and TensorFlow.js for GPU-accelerated inference.
