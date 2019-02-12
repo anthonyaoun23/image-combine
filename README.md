@@ -1,6 +1,6 @@
 # image-combine
 
-## Combine 2 images using Magenta's image models and TensorFlow.js for GPU-accelerated inference.
+Combine 2 images using Magenta's image models and TensorFlow.js for GPU-accelerated inference.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
