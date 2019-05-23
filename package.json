@@ -1,0 +1,19 @@
+{
+  "name": "image-combine",
+  "version": "1.0.0",
+  "description": "Combine 2 images using Magenta's image models and TensorFlow.js for GPU-accelerated inference.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyaoun23/image-combine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyaoun23/image-combine/issues"
+  },
+  "homepage": "https://github.com/anthonyaoun23/image-combine#readme"
+}
