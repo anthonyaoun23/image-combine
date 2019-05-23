@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anthonyaoun23/image-combine/issues"
   },
-  "homepage": "https://github.com/anthonyaoun23/image-combine#readme"
+  "homepage": "https://github.com/anthonyaoun23/image-combine#readme",
+  "dependencies": {
+    "@magenta/image": "^0.2.1"
+  }
 }
