@@ -1,9 +1,10 @@
-import * as mi from '@magenta/image';
+// var mi = require();
+import mi from './node_modules/@magenta/image/';
  
 const model = new mi.ArbitraryStyleTransferNetwork();
-const contentImg = document.getElementById('content') as HTMLImageElement;
-const styleImg = document.getElementById('style') as HTMLImageElement;
-const stylizedCanvas = document.getElementById('stylized') as HTMLCanvasElement;
+const contentImg = document.getElementById('content');
+const styleImg = document.getElementById('style');
+const stylizedCanvas = document.getElementById('stylized');
  
 function stylize() {
   model.stylize(contentImg, styleImg).then((imageData) => {
